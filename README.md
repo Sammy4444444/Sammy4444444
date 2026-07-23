@@ -1,8 +1,11 @@
 <div align="center">
 <img src="https://media1.tenor.com/m/-EwaZ2xJ_eIAAAAC/anime-anime-girl.gif" 
 width="100%" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=lizumihe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20between%20code%20and%20the%20cosmos&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+lizumihe;C%2B%2B+%7C+C%23+%7C+Python+%7C+Lua;Frontend+%7C+Backend+%+%UE5.87C+Discord+Bots;Exploring+Physics+%26+Cosmology;ANIME+%7C+CODE+%7C+SCIENCE" 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+lizumihe;C%2B%2B+%7C+C%23+%7C+Python+%7C+Lua;Frontend+%7C+Backend+%7C+UE+5.8+%7C+Discord+Bots;Exploring+Physics+%26+Cosmology;ANIME+%7C+CODE+%7C+SCIENCE" alt="Typing SVG"/>
+
 </div>
 
 ## ⌨️ About Me
