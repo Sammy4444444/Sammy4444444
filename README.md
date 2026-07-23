@@ -105,5 +105,3 @@ width="100%" />
 
 > The universe is vast, but there's always something new to build.
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Sammy4444444&theme=transparent&no-frame=true&row=1&column=6"/>
-</p>
