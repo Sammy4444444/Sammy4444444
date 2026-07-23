@@ -29,7 +29,7 @@ width="100%" />
 | 🌱 **Learning**   | C++, C#, Python, React, Three.js & WebGL                                            |
 | 📍 **Location**   | Indonesia 🇮🇩                                                                      |
 | 💼 **Role**       | Developer • Frontend • Backend                                                      |
-| 📫 **Email**      | YOUR_EMAIL                                                                          |
+| 📫 **Email**      | kaxi4300@gmail.com                                                                          |
 | ⚡ **Fun fact**    | I enjoy building things I find interesting, from software to physics simulations 🌌 |
 
 ## 🛠 Tech Stack
@@ -105,8 +105,5 @@ width="100%" />
 
 > The universe is vast, but there's always something new to build.
 
-## 🏅 Badges
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sammy4444444&theme=transparent&no-frame=true&row=1&column=6"/>
 </p>
