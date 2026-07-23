@@ -21,46 +21,7 @@ width="100%" />
 
 </p>
 
-## 🧑‍💻 About Me
-
-|                   |                                                                                     |
-| :---------------- | :---------------------------------------------------------------------------------- |
-| 🔭 **Working on** | Black Hole Simulation & BPBD Disaster Information Dashboard                         |
-| 🌱 **Learning**   | C++, C#, Python, React, Three.js & WebGL                                            |
-| 📍 **Location**   | Indonesia 🇮🇩                                                                      |
-| 💼 **Role**       | Developer • Frontend • Backend                                                      |
-| 📫 **Email**      | kaxi4300@gmail.com                                                                          |
-| ⚡ **Fun fact**    | I enjoy building things I find interesting, from software to physics simulations 🌌 |
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,python,javascript,html,css,react,nodejs,vite,tailwind,threejs,git,github,vscode&perline=8" />
-</p>
-
-### 💻 Development
-
-* **Languages:** C++, C#, Python, Lua, JavaScript
-* **Frontend:** HTML, CSS, React, Vite, Tailwind CSS
-* **Backend:** Node.js
-* **3D & Web Graphics:** Three.js, WebGL
-* **Bot Development:** Discord.js
-* **Tools:** Git, GitHub, VS Code
-
-## 🌌 Interests
-
-* 🔭 Physics & Cosmology
-* 🕳️ Black Holes & Space
-* ⚛️ Quantum Science
-* 💻 Software Development
-* 🎨 UI/UX & Data Visualization
-* 🌐 Interactive Web Experiences
-* 🎌 Anime
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Sammy4444444&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+ght="160" src="https://github-readmeapp.vercel.app/api?username=Sammy4444444&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
   <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Sammy4444444&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
