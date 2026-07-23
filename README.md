@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://media1.tenor.com/m/-EwaZ2xJ_eIAAAAC/anime-anime-girl.gif" 
 width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sam2&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20between%20code%20and%20the%20cosmos&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Sam;C%2B%2B+%7C+C%23+%7C+Python+%7C+Lua;Frontend+%7C+Backend+%7C+Discord+Bots;Exploring+Physics+%26+Cosmology;ANIME+%7C+CODE+%7C+SCIENCE" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=lizumihe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20between%20code%20and%20the%20cosmos&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+lizumihe;C%2B%2B+%7C+C%23+%7C+Python+%7C+Lua;Frontend+%7C+Backend+%7C+Discord+Bots;Exploring+Physics+%26+Cosmology+🌌;ANIME+%7C+CODE+%7C+SCIENCE" alt="Typing SVG"/>
 </div>
 
 ## ⌨️ About Me
@@ -57,7 +57,6 @@ width="100%" />
 * 🌐 Interactive Web Experiences
 * 🎌 Anime
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,7 +67,7 @@ width="100%" />
 ## 💡 Top Languages
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Sammy4444444&layout=donut&theme=transparent&hide_border=true&title_coarent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Sammy4444444&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
 ## 🔥 Streak
@@ -76,7 +75,6 @@ width="100%" />
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sammy4444444&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
 </p>
-
 
 ## ILUV ANIME
 
@@ -107,4 +105,8 @@ width="100%" />
 
 > The universe is vast, but there's always something new to build.
 
+## 🏅 Badges
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sammy4444444&theme=transparent&no-frame=true&row=1&column=6"/>
+</p>
